@@ -8,8 +8,7 @@ https://www.blockchain.com/btc/address/1NxCcVz35uojvHwzxyurX8DQGj4RcjXsQf
 
 
 # Video Demonstration
-https://linksharing.samsungcloud.com/contents/view?contentsToken=1632511440909LqkBqDY&currentIndex=1&linkUrlVersion=V1
-
+https://www.youtube.com/watch?v=5v_vUFx2T3M
 
 
 
